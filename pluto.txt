@@ -6,4 +6,8 @@ Add something new
 Slight change
 >>>>>>> 05cd73b2e6bba0c5967edb286a2cdc6db747e600
 
+<<<<<<< HEAD
 test conflict
+=======
+ashdufhasgbv
+>>>>>>> c64f6f221d8d44acb6f5766748326544ac386eb9
